@@ -74,7 +74,17 @@ To run this project, you need to have Python and the following libraries install
 - scikit-learn
 - matplotlib
 - jupyter
+- re
+- urllib
+- ssl
+- socket
+- whois
+- BeautifulSoup
+- requests
+- datetime
+- dns.resolver
+- joblib
 
 You can install these libraries using pip:
 ```bash
-pip install pandas numpy scikit-learn matplotlib jupyter
+pip install pandas numpy scikit-learn matplotlib jupyter re urllib3 ssl socket whois beautifulsoup4 requests python-dateutil dnspython joblib
